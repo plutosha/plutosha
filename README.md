@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @plutosha
+- 👀 I’m interested in Python, Java
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me pluton#8921
