@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @plutosha
-- 👀 I’m interested in Python, Java
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pluton#8921
+![Мариняк Віктор](https://user-images.githubusercontent.com/114109067/200048087-e6fcacaf-6940-4c75-9090-ea46b26f2523.png)
