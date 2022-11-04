@@ -1,1 +1,1 @@
-![Мариняк Віктор](https://user-images.githubusercontent.com/114109067/200048087-e6fcacaf-6940-4c75-9090-ea46b26f2523.png)
+![Мариняк Віктор (1)](https://user-images.githubusercontent.com/114109067/200048171-1214a33e-599e-4d7d-8e02-1401251b2a39.png)
