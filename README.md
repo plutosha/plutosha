@@ -1,4 +1,3 @@
-![229138-5_Centimeters_Per_Second-anime-sky](https://user-images.githubusercontent.com/114109067/215195510-76375eec-d3c9-4427-8644-e8cfb0c6abca.jpg)
 ## I'm a QA Engineer 
 ## My CV - soon 
 
