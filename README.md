@@ -1,6 +1,6 @@
 ## I'm a QA Engineer 
 ## My CV - soon 
-
+[Link to my CV]()
 ## Testing Documentation
 - [Checklists](https://github.com/plutosha/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/plutosha/Test-Suites-and-Test-Cases)
